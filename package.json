@@ -1,0 +1,27 @@
+{
+  "name": "mongotest",
+  "version": "1.0.0",
+  "description": "Testing a Mongo DB Deployment Basics",
+  "main": "app.js",
+  "scripts": {
+    "test": "tester",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfeeney87/mongoStarter.git"
+  },
+  "keywords": [
+    "mongodb",
+    "tutorial"
+  ],
+  "author": "Dan Feeney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfeeney87/mongoStarter/issues"
+  },
+  "homepage": "https://github.com/dfeeney87/mongoStarter#readme",
+  "dependencies": {
+    "mongodb": "^3.0.10"
+  }
+}
